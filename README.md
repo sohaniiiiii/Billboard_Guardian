@@ -9,7 +9,7 @@ Our system is designed to support smarter cities by ensuring that billboards fol
 By detecting and flagging unauthorized placements, this project contributes to **road safety, better city planning, and rule enforcement**.  
 
 ## Team
-**Binary Boss**  
+**Binary Bosses**  
 - Siddamsetty Sohani  
 - Sheik Afsin Maahi  
 
